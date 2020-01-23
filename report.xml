@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+     <report
+        id="report_moto_card"
+        model="motos"
+        string="Report Moto"
+        report_type="qweb-pdf"
+        name="Concesionario.report_moto"
+        file="Concesionario.report_moto"
+    />
+</odoo>
